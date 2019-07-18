@@ -1,0 +1,6 @@
+Ideas:
+
+1. implementation of dashboard for the visualisation for giving the coordinates and number of schools around you based on your location.
+
+2. implementation of language maps (mapping maps of languages to map of schools) http://www.unesco.org/languages-atlas/
+for this project one would need just to request school coordinates and compare them to coordinates on the language atlas.
